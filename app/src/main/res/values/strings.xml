@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AssignmentExample</string>
+    <string name="login_screen">Login Screen</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="submit">Submit</string>
+    <string name="plesae_enter_the_email">Plesae enter the email</string>
+    <string name="plesae_enter_the_valid_email">Plesae enter the valid email id</string>
+    <string name="Please_enter_the_password">Please enter the password</string>
+    <string name="Please_enter_the_confirm_password">Please enter the Confirm password</string>
+    <string name="password_not_match">Password not match, Please verify you password</string>
+</resources>
